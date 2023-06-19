@@ -52,23 +52,23 @@
 ## 📊 My GitHub Statistics
 
 <p align="center">
-    <a href="https://github.com/abdullah1772">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah1772&show_icons=true&theme=radical&include_all_commits=true"/>
+    <a href="https://github.com/abdullah4175">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api?username=abdullah4175&show_icons=true&theme=radical&include_all_commits=true"/>
     </a>
 </p>
 
 
 <p align="center">
-    <a href="https://github.com/abdullah1772">
-        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah1772&layout=compact&theme=radical"/>
+    <a href="https://github.com/abdullah4175">
+        <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdullah4175&layout=compact&theme=radical"/>
     </a>
 </p>
 
 ## 🔥 Streak Stats
 
 <p align="center">
-    <a href="https://github.com/abdullah1772">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah1772&theme=radical" alt="abdullah1772" />
+    <a href="https://github.com/abdullah4175">
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdullah1772&theme=radical" alt="abdullah4175" />
     </a>
 </p>
 
